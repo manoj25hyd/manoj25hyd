@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Kumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLP and Time Series Forecasting
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me manoj25hyd@gmail.com
 
 <!---
